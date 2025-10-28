@@ -77,7 +77,3 @@ Both testbenches:
 
 ---
 
-## 🧾 Author
-
-Created by **WHITE ROOK**  
-For academic learning and FSM design practice in Verilog.
